@@ -1,0 +1,25 @@
+body {
+    padding: 15px;
+}
+.spacer {
+    flex: 1 1 auto
+}
+.fullWidth, .mat-table {
+    width: 100%
+}
+th.mat-header-cell{
+    padding: 15px;
+  }
+ .mat-cell {
+    padding: 15px;
+  }
+.inputContainer {
+    margin: 15px 15px 15px;
+}
+.addButton {
+    margin: 5px
+}
+
+.toggleContainer {
+    margin: 15px; display: flex;
+}
